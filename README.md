@@ -20,7 +20,7 @@ It takes soome time so be patiannt.
 
 ## Running the tests
 
-1. Run GitHubScraper.exe located in \GitHubScraper\GitHubScraper\bin\Release
+1. Run GitHubScraper.exe located in Release folder
 2. Enter the MongoDB and Slenium server ip and port as you will see in the command prompt. 
 
 ## See the results the test
